@@ -8,7 +8,6 @@ title_description: "bir gün bir bit ve bir blog akşam dolaşmaya çıkmış"
 title_image: "https://pbs.twimg.com/profile_images/642027807929958401/Bfl95AG4.png"
 disqus_account: aniliyidogan
 github_repository: https://github.com/aniliyidogan
-addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
@@ -17,7 +16,7 @@ github_username:  aniliyidogan
 linkedin_link: https://tr.linkedin.com/in/aniliyidogan/
 
 # Footer
-footer: "jekyll ile hazırlanmış github evinde bulunuyor"
+footer: 'gizli bilgi: tema için teşekkürler jacobtomlinson :)'
 
 # Build settings
 markdown: kramdown
