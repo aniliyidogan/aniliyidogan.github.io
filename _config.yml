@@ -16,7 +16,7 @@ github_username:  aniliyidogan
 linkedin_link: https://tr.linkedin.com/in/aniliyidogan/
 
 # Footer
-footer: 'gizli bilgi: tema için teşekkürler jacobtomlinson :)'
+footer: 'gizli bilgi: jekyll candır, tema için teşekkürler jacobtomlinson :)'
 
 # Build settings
 markdown: kramdown
