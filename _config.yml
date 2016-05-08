@@ -5,7 +5,6 @@ description: "bir bit bir blog"
 baseurl: ""
 url: "http://aniliyidogan.com/"
 title_description: "bir gün bir bit ve bir blog akşam dolaşmaya çıkmış"
-title_image: "https://pbs.twimg.com/profile_images/642027807929958401/Bfl95AG4.png"
 disqus_account: aniliyidogan
 github_repository: https://github.com/aniliyidogan
 post_limit: 5
