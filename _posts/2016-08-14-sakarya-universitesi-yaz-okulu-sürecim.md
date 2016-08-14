@@ -11,7 +11,7 @@ tags:
 
 KTÜ'de bilgisayar mühendisliği okuyorum. Bu yaz bir kaç dersimi verebileceğim bir yaz okulu arama sürecine girmiştim. Önünüzde çok seçenek varmış gibi görülebilir fakat maalesef öyle değil. Kabul edilebilir seçenek oldukça az. Ne kadar İstanbul'da yaşasam bile YTÜ bile bana uzak kalıyordu(Pendik'i İstanbul'dan saymayanlar Davutpaşa'yı da saymasın). Bir diğer seçenek İzmir. Fakat plan program açısından en zahmetlisi ve benim gibi tembel biri için biraz cesurca olacaktı ayrıca zaten aileniz sizi okul zamanın da göremiyor bir de yazın böyle bir seçeneği değerlendirmek oldukça zorlaşıyor. YTÜ dışarıdan gelenleri öğrenci olarak değil, 5 yıldızlı otele gelen yerli turist olarak görüyordu. İstedikleri fiyata istedikleri eğitimi verebilirler, kendi kararları. Ben de Sakarya'yı seçtim.
 
-Hem staj hem de yaz okulunu beraber götürmek istedim ve haftanın 3 günü Sakarya'ya 2 günü de [Protel](http://www.protel.com.tr) 'de staja gittim. Bu yazı da yaz okulu ayağında duracağım.
+Hem staj hem de yaz okulunu beraber götürmek istedim ve haftanın 3 günü Sakarya'ya 2 günü de [Protel](http://www.protel.com.tr) 'de staja gittim. Bu yazıda yaz okulu ayağında duracağım.
 
 Yaz okulu mecbur değilseniz çekilecek dert değil.
 
