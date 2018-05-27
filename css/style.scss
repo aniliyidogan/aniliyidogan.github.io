@@ -1,15 +1,9 @@
 ---
 ---
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Rubik&subset=latin,latin-ext);
 @import url(http://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
-@import url(https://fonts.googleapis.com/css?family=Poiret+One&subset=latin,latin-ext);
-@font-face {
-font-family: 'Bariol-Regular';
-font-style: normal;
-font-weight: normal;
-src: local('Bariol-Regular'), url('Bariol.woff') format('woff');
-}
+@import url('https://fonts.googleapis.com/css?family=Athiti');
+
 /* Colours */
 $twitter:        #6dabda;
 $linkedin:       #2b77b1;
@@ -41,7 +35,7 @@ html {
 }
 
 body {
-	font-family: 'Bariol-Regular';
+	font-family: 'Athiti', sans-serif;
 	font-weight: 300;
 	background-color: $one;
 	color: $white;
@@ -94,7 +88,6 @@ ul {
 }
 
 .header {
-	font-family: 'Poiret One', cursive;
 	font-size: 32px;
 	text-align: center;
 	margin-top: 20px;
@@ -131,7 +124,7 @@ ul {
 	padding-left: 30px;
 	padding-right: 30px;
 	margin-top: 20px;
-	font-family: 'Bariol-Regular';
+	font-family: 'Athiti', sans-serif;
 	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
 	border-bottom: 5px solid $red;
 	font-style: normal;
@@ -217,7 +210,6 @@ ul {
 	}
 
 	.author-header {
-		font-family: 'Poiret One', cursive;
 		color: $red;
 		margin-top: 0px;
 		padding-top: 15px;
