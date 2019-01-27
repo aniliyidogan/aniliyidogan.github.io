@@ -7,9 +7,6 @@ A simple Jekyll theme for blogging. Not named after the coffee.
 ### Article
 ![Article](http://i.imgur.com/8rD8FfC.png)
 
-### Disqus Comments
-![Comments](http://i.imgur.com/TBZHQwF.png)
-
 ### Posts grouped by year
 ![All Posts](http://i.imgur.com/9bNs2Sc.png)
 
@@ -46,7 +43,6 @@ The following tools and libraries are used in this theme
 
 ### Social
  * [AddThis](http://www.addthis.com/)
- * [Disqus](https://disqus.com/)
 
 ### Other
  * [Real Favicon Generator](http://realfavicongenerator.net/)
