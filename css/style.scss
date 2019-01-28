@@ -1,7 +1,6 @@
 ---
 ---
 @import url(https://fonts.googleapis.com/css?family=Rubik&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 @import url('https://fonts.googleapis.com/css?family=Hind:300');
 
 /* Colours */
@@ -53,7 +52,7 @@ body {
 
 a, a:active {
 	color: $red;
-	text-decoratioonen: none;
+	text-decoration: none;
 }
 
 a:hover {
@@ -62,7 +61,7 @@ a:hover {
 }
 
 ul {
-    list-style-type: none;
+	list-style-type: none;
 }
 
 .navbar, .nav {
