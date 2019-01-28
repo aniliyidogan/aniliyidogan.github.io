@@ -261,8 +261,7 @@ ul {
 	}
 
 	.articles {
-		text-align: center;
-		font-size: 20px;
+		font-size: 16px;
 
 		h2 {
 			margin-bottom: 30px;
@@ -320,35 +319,6 @@ ul {
 			color: #FFFFFF;
 		}
 	}
-
-	.menu {
-		margin-top: 250px;
-		margin-bottom: 20px;
-		font-size: 20px;
-		position: absolute;
-		bottom: 0px;
-
-		a, a:active {
-			color: #FFFFFF;
-		}
-
-		a:hover {
-			color: $red;
-		}
-
-		ul {
-			margin-bottom: 30px;
-			padding-left: 10px;
-
-			ul {
-				padding-left: 50px;
-				list-style: none;
-				margin-left: 0;
-				text-indent: -0.6em;
-			}
-		}
-	}
-
 }
 
 .all-posts {

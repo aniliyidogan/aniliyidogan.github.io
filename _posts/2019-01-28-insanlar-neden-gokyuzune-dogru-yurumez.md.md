@@ -7,7 +7,7 @@ categories: insan
 ---
 <iframe src="https://open.spotify.com/embed/track/1flsSXBUZphU9qQfzu0Zzm" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Gökyüzüne doğru yürümek için gerekenleri ele alalım. Bir gökyüzü, iki bakış açısı bilgisi(görmek gerekmez), üç yönelecek kısımlarımız ve onların hareket ettirilmesi.
+Gökyüzüne doğru yürümek için gerekenleri ele alalım. Bir gökyüzü, iki bakış açısı bilgisi, üç yönelecek kısımlarımız ve onların hareket ettirilmesi.
 
 ### Hedef
 Gökyüzünün ne olduğu konusunda hemfikiriz. Gökyüzü için herkesin kendi tanımı olsa da bir adı var: Başarı.
@@ -21,4 +21,4 @@ Gökyüzüne doğru yürümek için bir yön bilgisine ihtiyacımız oldugu aşi
 Her bir kareket sadece kendi içerisinde değişikliklere sebep olmaz. Hareket her zaman bir şeyin parçasıdır ve bir çok şeyi etkiler. Bu etkiler o an hissedilebilir veya yaşanabilir olmak zorunda olmadığı için bir yanılmasa içeriyor gibi görünebilir. Çünkü biliyoruz ki durgun görünen bir canlı bile hiç olmadığı kadar hareketlidir. Bunu ölmeden önce de anlayabilmeliyiz.
 
 ___
-Bu soru metro durağından çıkarken aklıma geldi. Biz yürüyen merdivenin solundaki insanlar gökyüzüne doğru adım atmaktan mutluyuz. Umalım ve uğraşalım, tüm yollar gökyüzüne doğrulsun.
+Bu soru metro istasyonundan çıkarken aklıma geldi. Biz yürüyen merdivenin solundaki insanlar gökyüzüne doğru adım atmaktan mutluyuz. Umalım ve uğraşalım, tüm yollar gökyüzüne doğrulsun.
