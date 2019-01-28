@@ -1,7 +1,6 @@
 ---
 ---
-@import url(https://fonts.googleapis.com/css?family=Rubik&subset=latin,latin-ext);
-@import url('https://fonts.googleapis.com/css?family=Hind:300');
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400');
 
 /* Colours */
 $twitter:        #6dabda;
@@ -10,17 +9,10 @@ $google-plus:    #c95644;
 $github:         #f6c2a4;
 $rss:            #eea33a;
 
-$orangeer:       #21211E;
-$medium:         #3B3B35;
-$green:          #92C7A3;
-$light:          #DFECE6;
-$white:          #FFFFFF;
-$orange-purple:  #300030;
-$medium-purple:  #480048;
-$regular-purple: #601848;
-$red:   #677F6B;
+$three:   #677F6B;
 $one:   #BAE5C1;
 $two: 	#9BBFA1;
+
 /* Responsive sizes */
 $screen-sm-min: 768px;
 $screen-md-min: 992px;
@@ -44,53 +36,24 @@ body {
 	font-family: 'Hind', sans-serif;
 	font-weight: 300;
 	background-color: $one;
-	color: $white;
+	color: white;
 	font-size: 16px;
 	height: 100%;
 	width: 100%;
 }
 
 a, a:active {
-	color: $red;
+	color: $three;
 	text-decoration: none;
 }
 
 a:hover {
-	color: $red;
+	color: $three;
 	text-decoration: none;
 }
 
 ul {
 	list-style-type: none;
-}
-
-.navbar, .nav {
-	background-color: $red;
-
-	.navbar-toggle {
-		margin-top: 10px;
-		padding-top: 0px;
-		padding-bottom: 20px;
-	}
-
-	li {
-
-		a, a:active {
-			color: $white;
-		}
-
-		a:hover {
-			color: $red;
-			text-decoration: none;
-		}
-	}
-}
-
-.clearfix:after {
-   content: " ";
-   display: block;
-   height: 0;
-   clear: both;
 }
 
 .header {
@@ -106,23 +69,6 @@ ul {
 	}
 }
 
-.menu-button {
-	color: $white;
-	font-size: 24px;
-	position: fixed;
-	top: 10px;
-	left: 20px;
-	cursor: pointer;
-	line-height: 1em;
-	padding: 10px;
-	background-color: $one;
-	z-index: 100;
-	@media (min-width: $screen-sm-min) {
-		top: 20px;
-		left: 40px;
-	}
-}
-
 .content-panel {
 	background-color: $two;
 	padding-top: 20px;
@@ -132,14 +78,10 @@ ul {
 	margin-top: 20px;
 	font-family: 'Hind', sans-serif;
 	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
-	border-bottom: 5px solid $red;
+	border-bottom: 5px solid $three;
 	font-style: normal;
 }
 
-.menu{
-	text-align: center;
-	margin-top: 10px;
-}
 .links {
 	margin-top: 50px;
 	text-align: center;
@@ -168,10 +110,6 @@ ul {
 		color: $linkedin;
 	}
 
-	.fa-google-plus:hover {
-		color: $google-plus;
-	}
-
 	.fa-github-alt:hover {
 		color: $github;
 	}
@@ -182,6 +120,11 @@ ul {
 }
 
 /* Index */
+
+.home {
+	height: 15px;
+	background-color: $three;
+}
 
 .index {
 	height: 100%;
@@ -212,11 +155,11 @@ ul {
 	}
 
 	.content-panel:nth-of-type(1) {
-		border-bottom: 10px solid $red;
+		border-bottom: 10px solid $three;
 	}
 
 	.author-header {
-		color: $red;
+		color: $three;
 		margin-top: 0px;
 		padding-top: 15px;
 		font-size: 30px;
@@ -240,12 +183,6 @@ ul {
 		margin-right: 0px;
 	}
 
-	.gravatar {
-		width: 100%;
-		margin-top: -80px;
-		text-align: center;
-	}
-
 	.author-text {
 		text-align: center;
 		margin-top: 30px;
@@ -264,12 +201,11 @@ ul {
 
 		h2 {
 			margin-bottom: 30px;
-			color: $red;
+			color: $three;
 			font-size: 26px;
 		}
 
 		ul {
-
 			padding: 0px;
 
 			li {
@@ -294,75 +230,21 @@ ul {
 			}
 
 			li:nth-last-of-type(1) {
-
 				small {
 					font-size: 16px;
 				}
-
 			}
 		}
 
 		a, a:active {
-			color: $white;
+			color: white;
 			white-space: nowrap;
 		}
 
 		a:hover {
-			color: $red;
+			color: $three;
 		}
 	}
-
-	.copyright {
-		margin-top: 50px;
-		text-align: center;
-	}
-
-	.links {
-		a, a:active {
-			color: #FFFFFF;
-		}
-	}
-}
-
-.all-posts {
-	margin-left: 0px;
-	margin-right: 0px;
-
-	@media (min-width: $screen-sm-min) {
-		#search-container {
-			padding-top: 75px;
-			padding-bottom: 150px;
-		}
-	}
-
-	@media (min-width: $screen-md-min) {
-		margin-left: -15px;
-		margin-right: -15px;
-
-		#search-container {
-			padding-bottom: 300px;
-		}
-	}
-
-	#search-input {
-		position:relative;
-		width: 100%;
-		padding:6px 15px 6px 30px;
-		margin: 2px;
-		margin-top: 50px;
-
-		color:$one;
-		background-color:$white;
-
-		border:1px solid #adc5cf;
-		border-radius:15px;
-		-moz-border-radius:15px;
-		-webkit-border-radius:15px;
-	}
-
-	#search-input:focus {
-		border: none;
-  }
 
 	.content-panel {
 		padding-left: 10px;
@@ -380,7 +262,8 @@ ul {
 	max-height: 100%;
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: 'Rubik', sans-serif;
+		font-family: 'Hind', sans-serif;
+		font-weight: 400;
 		margin-bottom: 10px;
 	}
 
@@ -397,49 +280,6 @@ ul {
 
 		@media (min-width: $screen-sm-min) {
 			margin-bottom: 40px;
-		}
-	}
-
-	.menu {
-
-		background-color: $red;
-
-		a, a:active {
-			color: $white;
-		}
-
-		a:hover {
-			color: $red;
-		}
-
-		h4 {
-			margin-top: 20px;
-		}
-
-		.share {
-			margin-top: 20px;
-
-			h4 {
-				margin-bottom: 10px;
-			}
-		}
-
-		.home {
-			margin-top: 10px;
-			font-size: 16px;
-
-			a {
-				color: $white;
-			}
-		}
-
-		.related {
-			ul {
-				padding: 0px;
-			}
-			li {
-				margin-bottom: 10px;
-			}
 		}
 	}
 
@@ -463,35 +303,6 @@ ul {
 			margin-left: 15%;
 		}
 
-		.thumb {
-			margin-top: 20px;
-			margin-bottom: 0px;
-			text-align: center;
-
-			img {
-				height: 50px;
-				@media (min-width: $screen-sm-min) {
-					height: 70px;
-				}
-			}
-		}
-
-		.author {
-			font-size: 20px;
-			text-align: center;
-			margin-bottom: 0px;
-		}
-
-		.read-time {
-			font-size: 16px;
-			text-align: center;
-			margin-bottom: 10px;
-			font-weight: 400;
-			@media (min-width: $screen-sm-min) {
-				margin-bottom: 40px;
-			}
-		}
-
 		.content {
 			background-color: #fff;
 			color: #677F6B;
@@ -510,10 +321,6 @@ ul {
 				padding-bottom: 20px;
 			}
 
-			.series {
-				margin-bottom: 50px;
-			}
-
 			img {
 				max-width: 75%;
 				padding: 10px;
@@ -526,7 +333,7 @@ ul {
 				list-style-type: disc;
 			}
 
-            		ol {
+			ol {
 				list-style-type: decimal;
 			}
 
@@ -535,7 +342,7 @@ ul {
 				width: 100%;
 		    margin-left: -15px;
 				padding-right: 10px;
-				background-color: $orangeer;
+				background-color: $two;
 				color: white;
 				box-sizing: content-box;
 				border: none;
@@ -566,15 +373,6 @@ ul {
 
 			}
 
-			.alignright {
-				float: right;
-			}
-
-			.aligncenter {
-			    display: block;
-			    margin: 5px auto 5px auto;
-			}
-
 			figure.highlight, div.highlighter-rouge {
 				width: 100%;
 				margin-left: -15px;
@@ -589,8 +387,8 @@ ul {
 				pre {
 					width: 100%;
 					font-family: 'Anonymous Pro';
-					background-color: $orangeer;
-					color: $white;
+					background-color: $two;
+					color: white;
 					font-size: 12px;
 					border: none;
 					padding-left: 15px;
@@ -612,16 +410,14 @@ ul {
 			}
 
 			p, ul, ol {
-
 				code {
 					font-family: 'Anonymous Pro';
 					font-size: 15px;
-					background-color: $orangeer;
-					color: $white;
+					background-color: $two;
+					color: white;
 					padding: 0.5em;
 					vertical-align: middle;
 				}
-
 			}
 
 			.tags {
@@ -630,153 +426,13 @@ ul {
 				text-align: center;
 
 				a, a:active {
-					color: $white;
+					color: white;
 				}
 
 				a:hover {
-					color: $red;
+					color: $three;
 				}
-
 			}
-
-			.share {
-				margin-top: 20px;
-				margin-bottom: 10px;
-				text-align: center;
-
-			}
-
-		}
-
-		.feedback {
-			text-align: center;
-			.fa-heart {
-				color: $red;
-			}
-		}
-	}
-}
-
-.related {
-	margin-top: 50px;
-	text-align: center;
-
-	.related-header {
-		margin-top: -30px;
-		margin-bottom: 20px;
-
-		a {
-			color: $white;
-			font-size: 18px;
-			width: auto;
-			padding: 10px 20px;
-			background-color: $orangeer;
-			box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
-		}
-
-		a:hover {
-			color: $red;
-		}
-	}
-
-	.title {
-		padding-top:20px;
-		font-size: 24px;
-		margin-bottom: 20px;
-
-		@media (min-width: $screen-sm-min) {
-			font-size: 36px;
-		}
-
-		a {
-			color: $white;
-		}
-
-		a:hover {
-			color: $light;
-		}
-	}
-
-	p {
-		margin-bottom: 0px;
-	}
-
-	.previous-next {
-		width: 50%;
-
-		a {
-			color: $white;
-		}
-
-		a:hover {
-			color: $light;
-		}
-	}
-
-	.next {
-		float: right;
-		text-align: right;
-	}
-
-	.previous {
-		float: left;
-		text-align: left;
-	}
-
-	.date {
-		color: $one;
-	}
-}
-
-.search-hr {
-	width: 700px;
-	border-color: $one;
-}
-
-.error {
-	.error-text {
-		margin-top: 30px;
-
-		a {
-			color: $red;
-		}
-	}
-
-	.links {
-		font-size: 1em;
-	}
-}
-
-.btn-categories {
-	background-color: $red;
-	border-color: $red;
-	color: $white;
-	&:hover {
-		background-color: $red;
-		border-color: $red;
-		color: $white;
-	}
-	&:active {
-		background-color: $red;
-		border-color: $red;
-		color: $white;
-	}
-	&:focus {
-		background-color: $red;
-		border-color: $red;
-		color: $white;
-	}
-}
-
-.dropdown-menu {
-	background-color: $red;
-	color: $white;
-	> li > a {
-		background-color: $red;
-		color: $white;
-		&:hover {
-			background-color: $red;
-			color: $white;
 		}
 	}
 }
