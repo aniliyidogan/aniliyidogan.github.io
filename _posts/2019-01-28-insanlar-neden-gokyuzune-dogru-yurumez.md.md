@@ -7,7 +7,8 @@ categories: insan
 ---
 <iframe src="https://open.spotify.com/embed/track/1flsSXBUZphU9qQfzu0Zzm" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Gökyüzüne doğru yürümek için gerekenleri ele alalım. Bir gökyüzü, iki bakış açısı bilgisi, üç yönelecek kısımlarımız ve onların hareket ettirilmesi.
+Gökyüzüne doğru yürümek için gerekenleri ele alalım. Bir yukarıdaki müzik şaka şaka :)
+Bir gökyüzü, iki bakış açısı bilgisi, üç yönelecek kısımlarımız ve onların hareket ettirilmesi.
 
 ### Hedef
 Gökyüzünün ne olduğu konusunda hemfikiriz. Gökyüzü için herkesin kendi tanımı olsa da bir adı var: Başarı.
