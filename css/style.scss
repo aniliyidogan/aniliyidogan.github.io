@@ -9,9 +9,10 @@ $google-plus:    #c95644;
 $github:         #f6c2a4;
 $rss:            #eea33a;
 
-$three:   #677F6B;
 $one:   #BAE5C1;
 $two: 	#9BBFA1;
+$three:   #677F6B;
+$four:   #e1ffdca6;
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -19,12 +20,6 @@ $screen-md-min: 992px;
 $screen-lg-min: 1200px;
 
 /* Globals */
-
-*{
-	-moz-filter: grayscale(100%);
-	-webkit-filter: grayscale(100%);
-	filter: gray;
-}
 
 html {
 	height: 100%;
@@ -34,7 +29,7 @@ html {
 body {
 	font-family: 'Hind', sans-serif;
 	font-weight: 300;
-	background-color: $one;
+	background-color: $four;
 	color: white;
 	font-size: 16px;
 	height: 100%;
@@ -54,11 +49,15 @@ ul {
 	list-style-type: none;
 }
 
+hr{
+	opacity: 0.1;
+}
+
 .content-panel {
 	background-color: $two;
 	margin-top: 20px;
 	font-family: 'Hind', sans-serif;
-	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 0px 0px 0px, 0px 6px 12px rgba(0, 0, 0, 0.1);
 	border-bottom: 5px solid $three;
 	font-style: normal;
 	padding: 20px;
@@ -95,14 +94,14 @@ ul {
 	max-width: 700px;
 	margin: 0 auto;
 	background-color: $three;
+	box-shadow: 0px 0px 0px 0px, 0px 3px 6px rgba(0, 0, 0, 0.1);
 }
 
 .index {
-	height: 100%;
-	max-height: 100%;
 	width: 100%;
 	padding: 0px;
 	margin: 0 auto;
+	margin-bottom: 20px;
 
 	@media (min-width: $screen-sm-min) {
 		width: 700px;
@@ -111,9 +110,9 @@ ul {
 
 	.header {
 		margin-top: 10px;
-		margin-bottom: 0px;
 		font-size: 32px;
 		width: 100%;
+		color: #6d8866;
 
 		@media (min-width: $screen-lg-min) {
 			width: 120%;
@@ -131,12 +130,6 @@ ul {
 	.author-header {
 		color: $three;
 		text-align: right;
-	}
-
-	.row {
-		height: 100%;
-		max-height: 100%;
-		margin-top: 20px;
 	}
 
 	.articles {
@@ -173,9 +166,6 @@ ul {
 
 			li:nth-of-type(1) {
 				font-size: 150%;
-				small{
-					font-size: 80%;
-				}
 			}
 		}
 

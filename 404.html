@@ -4,25 +4,21 @@ title: 404
 permalink: /404.html
 ---
 
-<div class="container-fluid index error">
-  <div class="row">
-    <div class="content-panel articles">
-      <h1 class="header author-header">404</h1>
+<div class="index error">
+  <div class="content-panel articles">
+    <h1 class="header author-header">404</h1>
 
-      <div class="error-text">
-        Burası 404, sen nereye bakmıştın..
-      </div>
-
-      <div class="error-text">
-        <a href="{{ site.baseurl }}/">ana sayfa</a> |
-        <a href="{{ site.baseurl }}/posts/">tüm yazılar</a> |
-        <a href="{{ site.baseurl }}/search/">arama</a>
-      </div>
-
-      {% include social_links.html %}
-
+    <div class="error-text">
+      Burası 404, sen nereye bakmıştın..
     </div>
 
+    <div class="error-text">
+      <a href="{{ site.baseurl }}/">ana sayfa</a> |
+      <a href="{{ site.baseurl }}/posts/">tüm yazılar</a> |
+      <a href="{{ site.baseurl }}/search/">arama</a>
+    </div>
+
+    {% include social_links.html %}
   </div>
 
   <div class="content-panel related">
@@ -43,5 +39,4 @@ permalink: /404.html
       </div>
     {% endfor %}
   </div>
-
 </div>
