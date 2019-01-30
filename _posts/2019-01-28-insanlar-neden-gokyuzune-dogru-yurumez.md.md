@@ -19,7 +19,7 @@ Bu üç kavramdan en önemlisi bakış açısı bilgisi. Böyle desem de inanmay
 Gökyüzüne doğru yürümek için bir yön bilgisine ihtiyacımız olduğu aşikar. Eğer bu bilgi net ve anlaşılır değilse gökyüzünden uzaklaşacağımız bir yola başlayacak olabiliriz. Bu yüzden mesele hiçbir zaman bakmak olmadı, görmek oldu. Gökyüzünü görmek. Birçok şeye rağmen görmek.
 
 ### Hareket
-Her bir kareket sadece kendi içerisinde değişikliklere sebep olmaz. Hareket her zaman bir şeyin parçasıdır ve birçok şeyi etkiler. Bu etkiler o an hissedilebilir veya yaşanabilir olmak zorunda olmadığı için bir yanılmasa içeriyor gibi görünebilir. Çünkü biliyoruz ki durgun görünen bir canlı bile hiç olmadığı kadar hareketlidir. Bunu ölmeden önce de anlayabilmeliyiz.
+Her bir hareket sadece kendi içerisinde değişikliklere sebep olmaz. Hareket her zaman bir şeyin parçasıdır ve birçok şeyi etkiler. Bu etkiler o an hissedilebilir veya yaşanabilir olmak zorunda olmadığı için bir yanılmasa içeriyor gibi görünebilir. Çünkü biliyoruz ki durgun görünen bir canlı bile hiç olmadığı kadar hareketlidir. Bunu ölmeden önce de anlayabilmeliyiz.
 
 ___
 Bu soru metro istasyonundan çıkarken geldi aklıma. Biz yürüyen merdivenin solundaki insanlar gökyüzüne doğru adım atmaktan mutluyuz. Umalım ve uğraşalım, tüm yollar gökyüzüne doğrulsun.
