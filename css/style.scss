@@ -169,13 +169,10 @@ ul {
 					padding-top: 0px;
 					color: $one;
 				}
-
 			}
 
-			li:nth-last-of-type(1) {
-				small {
-					font-size: 16px;
-				}
+			li:nth-of-type(1) {
+				font-size: 164%;
 			}
 		}
 

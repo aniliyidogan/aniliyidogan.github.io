@@ -15,7 +15,6 @@ make-smaller-titles: true
                 <li>
                     <small>{{ post.date | date: "%b %Y" }}</small>
                     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-
                 </li>
                 {% endfor %}
             </ul>
