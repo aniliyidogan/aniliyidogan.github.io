@@ -12,30 +12,13 @@ permalink: /404.html
       Burası 404, sen nereye bakmıştın..
     </div>
 
-    <div class="error-text">
-      <a href="{{ site.baseurl }}/">ana sayfa</a> |
-      <a href="{{ site.baseurl }}/posts/">tüm yazılar</a> |
-      <a href="{{ site.baseurl }}/search/">arama</a>
-    </div>
-
     {% include social_links.html %}
   </div>
 
   <div class="content-panel related">
     {% for post in site.posts limit:1 %}
-      <div class="related-header">
-        <a href="{{ site.baseurl }}{{ post.url }}">önerilen yazılar</a>
-      </div>
       <div class="title">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </div>
-      <div class="excerpt">
-         {% if post.summary %}
-          {{ post.summary | strip_html | truncatewords:30 }}
-         {% else %}
-          {{ post.excerpt | strip_html | truncatewords:30 }}
-         {% endif %}
-        <a href="{{ site.baseurl }}{{ post.url }}">okumaya devam et</a>
       </div>
     {% endfor %}
   </div>
