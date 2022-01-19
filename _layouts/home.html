@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {{ post.categories }}
+        <a class="post-title post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+        <div class="post-mini-content">
+          {% assign content_size = post.content | size | divided_by: 5 %}
+          {{ post.content | strip_html | truncate: content_size, '...' }}
+        </div>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>
