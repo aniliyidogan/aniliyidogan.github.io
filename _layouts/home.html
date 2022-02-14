@@ -7,7 +7,7 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {{ post.categories }}
+        <div class="categories"> {{ post.categories }} </div>
         <a class="post-title post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
