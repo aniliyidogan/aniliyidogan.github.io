@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Düşüncesizlik ile
-date:   2022-04-26
+date:   2022-04-25
 categories: thoughts
 permalink: /:categories/:title:output_ext
 ---
