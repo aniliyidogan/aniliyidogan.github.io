@@ -7,7 +7,7 @@ permalink: /:categories/:title:output_ext
 ---
 
 ### Güven
-Çevremizdeki insanların nasıl birileri olduğunu biliyoruz ama inanıyoruz, bizle iyi ilişkiler içinde olacağına inanıyoruz. Aramızdaki ilişkilerin bitebileceğini elbet düşünüyoruz fakat şu an iyiyiz o insanlarla ve nasıl biteceği de önemli. Pürüzleri pek önemsemiyoruz. Neden? Çıkarımız mı var? Yoksa bir zamanı mı bekliyoruz. Ya da pürüzlersiz insan ilişkilerinin pek mümkün olamayacağını mı biliyoruz. Peki bir insan tüm ilişkilerinde güvenilir olabilir mi?
+Çevremizdeki insanların nasıl birileri olduğunu biliyoruz ama inanıyoruz, bizle iyi ilişkiler içinde olacağına inanıyoruz. Aramızdaki ilişkilerin bitebileceğini elbet düşünüyoruz fakat şu an iyiyiz o insanlarla ve nasıl biteceği de önemli. Pürüzleri pek önemsemiyoruz. Neden? Çıkarımız mı var? Yoksa bir zamanı mı bekliyoruz. Ya da insan ilişkilerinin pürüzsüz pek mümkün olamayacağını mı biliyoruz. Peki bir insan tüm ilişkilerinde güvenilir olabilir mi?
 
 > -- Kızların Sara’nın gerçek kimliğini öğrenmesini istemiştim.<br> -- Nasıl biri olduğunu biliyorlar. Onlar da öyle insanlar.<br> **- Skam**
 
