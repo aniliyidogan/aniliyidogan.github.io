@@ -11,7 +11,7 @@ permalink: /:categories/:title:output_ext
 
 > -- Kızların Sara’nın gerçek kimliğini öğrenmesini istemiştim.<br> -- Nasıl biri olduğunu biliyorlar. Onlar da öyle insanlar.<br> **- Skam**
 
-Elinde neşter biri sizi iyileştirmekten bahsediyorsa ona güvenmelisiniz, iyileştirmesinden de öte daha büyük bir yara açmaması için. Yaralıyken dikkat edilmez pek tabii bu. Fakat sana geçmen için kapıyı tutan kişiye bile bir güvenin var. Suratına çarpmayacağına inanıyorsun. Maalesef ki bazı insanlara bu kadar bile güvenin olmuyor.
+Elinde neşter biri sizi iyileştirmekten bahsediyorsa ona güvenmelisiniz, iyileştirmesinden de öte daha büyük bir yara açmaması için. Yaralıyken dikkat edilmez pek tabii bu. Fakat sana geçmen için kapıyı tutan kişiye bile bir güvenin var. Suratına çarpmayacağına inanıyorsun. Maalesef ki bazı insanlara bu kadar bile güvenin kalmıyor.
 
 ### Nefret
 Nefret etmek pek aktif bir eylem, yorucu olsa gerek. Ve ayrıca nefretin bir şekilde kendini bulması var. Ya kendinde başlıyor:
