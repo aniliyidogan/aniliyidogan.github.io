@@ -32,6 +32,6 @@ Bazen neyin iyilik neyin kötülük olduğu da anlaşılamıyor. İyi insan olma
 
 > Sonra, kötülük neredeydi, kötülük? Görünüşte hep sevgi, ahlak, güzellik sözleri vardı ama, bir yerde kötülük olmalıydı; gizlilikten bir kötülük doğmalıydı.<br>**- Korkuyu Beklerken**
 
-Nasıl yaşamalı peki? Kim bilir.
+<br>Nasıl yaşamalı peki? Kim bilir.
 
 > Ben, yapılacak tek bir şey olduğu kanısındayım: Doğma nedenimizi bulmak ve bunu elimizden geldiğince iyi, bütün gücümüzle, öküz altında buzağı aramadan ve bizim hayvan doğamızda tanrısallık olduğunu sanmadan yerine getirmek. Ölüm bizi alacakken yapıcı bir şeyler yapmakta olduğumuz duygusuna ancak o zaman varırız. Özgürlük, karar, irade, bütün bunlar kuruntudan ibarettir. Arıların yazgısını paylaşmadan bal yapabileceğimizi sanıyoruz; ama biz de görevlerini yerine getirmeye ve sonra da ölmeye mahkum zavallı arılardan başka bir şey değiliz.<br>**-Kirpinin Zarafeti**
