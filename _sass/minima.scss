@@ -1,10 +1,10 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css2?family=Questrial&family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&family=Literata:opsz,wght@7..72,300&display=swap');
 
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Noto Serif Georgian", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   20px !default;
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   17px !default;
 $base-font-weight: 300 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
