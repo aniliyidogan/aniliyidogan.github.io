@@ -95,12 +95,6 @@
   }
 }
 
-.sites {
-  margin-top: -11px;
-  z-index: 10;
-  text-align: center;
-}
-
 
 
 /**
@@ -219,7 +213,7 @@
 }
 
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit * 3;
 }
 
 .post-title {
