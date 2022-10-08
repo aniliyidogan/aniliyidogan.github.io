@@ -3,7 +3,7 @@
  */
 .site-header {
   min-height: $spacing-unit * 1.865;
-  padding-bottom: 128px;
+  padding-bottom: 96px;
   // Positioning context for the mobile navigation icon
   background-color: $header-color;
   position: relative;
@@ -15,7 +15,6 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
 }
 
 .site-nav {
